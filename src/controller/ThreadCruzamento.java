@@ -49,5 +49,6 @@ public class ThreadCruzamento extends Thread {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		System.out.println("#"+ carro + " atravessou");
 	}
 }
